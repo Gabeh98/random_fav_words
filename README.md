@@ -1,4 +1,4 @@
-# study_app
+# Random fav words
 
 A new Flutter project.
 
